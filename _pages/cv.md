@@ -11,4 +11,4 @@ redirect_from:
 
 Last update: July. 2022.
 
-<embed src="https://liuyunhaozz.github.io/files/CV_1.pdf" width="650" height="900" type='application/pdf'>
+<embed src="https://liuyunhaozz.github.io/files/CV.pdf" width="650" height="900" type='application/pdf'>
