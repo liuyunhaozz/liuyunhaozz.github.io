@@ -28,11 +28,16 @@ I am currently working on 3D Vision and Salient object Detection, including topi
 * Total Score: 89/100
 
 
+
+
 <dl><dt><img align="right" width="350" height="350" hspace="0" src="./images/uav.gif"/></dt><dt>Dalian University of Technology</dt><dd>Sep. 2021 - Nov. 2021</dd></dl>
 
 * Position: Research Assistant in ICCD-Lab
 * Supervisor: Prof. [Xin Yang](https://xinyangdut.github.io/)
 * Project: Design and Realization of UAV Automatic Traversing System for Ring Obstacles
+
+
+
 
 <dl><dt><img align="right" width="350" height="350" hspace="0" src="./images/underwater detection.png"/></dt><dt>Dalian University of Technology</dt><dd>May. 2021 - Oct. 2021</dd></dl>
 
