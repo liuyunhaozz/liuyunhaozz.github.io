@@ -15,7 +15,7 @@ I am currently working on 3D Vision and Salient object Detection, including topi
 ## Education
 
 
-<dl><dt><img align="right" width="120" height="120" hspace="10" src="./images/dut.bmp"/></dt><dt>Dalian University of Technology</dt><dd>Sep. 2020 - Jun. 2024</dd><dd>B.E. in Computer Science and Technology</dd></dl>
+<dl><dt><img align="right" width="120" height="120" hspace="10" src="./images/dut.bmp"/></dt><dt>Dalian University of Technology</dt><dd>Sep. 2020 - Jun. 2024</dd><dd>Major in *Computer Science and Technology*</dd></dl>
 
 * Overall GPA: **91.2**/100 (**3.94**/4.0) 
 
