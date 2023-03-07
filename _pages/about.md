@@ -27,7 +27,7 @@ I am currently working on 3D Vision and Salient object Detection, including topi
 * [[certificate](https://xpro.mit.edu/certificate/d95310c4-f466-499e-a3a1-5260bb42f8bd)] Applying Machine Learning to Engineering and Science
 * Total Score: 89/100
 
-
+&nbsp;
 
 
 <dl><dt><img align="right" width="350" height="350" hspace="0" src="./images/uav.gif"/></dt><dt>Dalian University of Technology</dt><dd>Sep. 2021 - Nov. 2021</dd></dl>
@@ -36,7 +36,7 @@ I am currently working on 3D Vision and Salient object Detection, including topi
 * Supervisor: Prof. [Xin Yang](https://xinyangdut.github.io/)
 * Project: Design and Realization of UAV Automatic Traversing System for Ring Obstacles
 
-
+&nbsp;
 
 
 <dl><dt><img align="right" width="350" height="350" hspace="0" src="./images/underwater detection.png"/></dt><dt>Dalian University of Technology</dt><dd>May. 2021 - Oct. 2021</dd></dl>
@@ -45,6 +45,7 @@ I am currently working on 3D Vision and Salient object Detection, including topi
 * Supervisor: Prof. [Huchuan Lu](http://ice.dlut.edu.cn/lu/index.htm)
 * Project: Underwater Robotics Vision
 
+&nbsp;
 
 ## Honors & Awards
 * The Third prize 2021 China Intelligent UAV Racing Championship(**rk.7**)
