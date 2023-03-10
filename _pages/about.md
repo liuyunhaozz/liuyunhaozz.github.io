@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am an Undergraduate student at Dalian University of Technology, China.
 
-My research interest is Computer Vision, Multi-View Stereo, and Robotics.
-I am currently working on 3D Vision and Salient object Detection, including topics on pose estimation, detection and imitation learning.
+My research interest is Computer Vision and Robotics.
+I am currently working on Salient Object Detection and Image Super-Resolution, including topics on video salient detection and image rasterization.
 
 ## Education
 
