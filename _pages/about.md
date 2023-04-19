@@ -48,6 +48,20 @@ I am currently working on Salient Object Detection and Image Super-Resolution, i
 
 &nbsp;
 
+<dl><dt><img align="right" width="350" height="350" hspace="0" src="./images/ue4_drone.mp4"/></dt><dt>[UAV Path Planning](https://github.com/liuyunhaozz/uav_q-learning)</dt></dl>
+
+* Implemented a reinforcement learning algorithm called Q-learning
+* Built a virtual flight environment in UE4 to test the algorithm
+
+&nbsp;
+
+<dl><dt><img align="right" width="350" height="350" hspace="0" src="hadoop-setup.png"/></dt><dt>[Quickly Hadoop cluster setup](https://github.com/liuyunhaozz/hadoop-setup)</dt></dl>
+
+* Wrote a couple of shell scripts to automatically build a Hadoop cluster on multiple Linux servers
+* Integrated Spark, MapReduce, etc. with OBS (Object Storage Service)
+
+&nbsp;
+
 ## Honors & Awards
 * The Third prize 2021 China Intelligent UAV Racing Championship(**rk.7**)
 * The Third prize 2021 China Underwater Robot Professional Contest - Optics Track(**rk.9**) 
