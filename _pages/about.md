@@ -52,7 +52,7 @@ I am currently working on Salient Object Detection and Image Super-Resolution, i
 
 * Implemented a reinforcement learning algorithm called Q-learning
 * Built a virtual flight environment in UE4 to test the algorithm
-* https://github.com/liuyunhaozz/uav_q-learning
+* [Github](https://github.com/liuyunhaozz/uav_q-learning)
 
 &nbsp;
 
@@ -60,7 +60,7 @@ I am currently working on Salient Object Detection and Image Super-Resolution, i
 
 * Wrote a couple of shell scripts to automatically build a Hadoop cluster on multiple Linux servers
 * Integrated Spark, MapReduce, etc. with OBS (Object Storage Service)
-* https://github.com/liuyunhaozz/hadoop-setup
+* [Github](https://github.com/liuyunhaozz/hadoop-setup)
 
 &nbsp;
 
